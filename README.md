@@ -40,3 +40,8 @@ Accurate forecasting of volatility is essential for risk management and trading 
 The model was evaluated using multiple performance metrics, including MAE, RMSE, MAPE, and R². The results show a significant improvement over baseline models, demonstrating the effectiveness of deep learning in forecasting volatility.
 ## Published 
 https://medium.com/@hameddfarahanii/predicting-financial-volatility-with-deep-learning-a-dnn-approach-ba7bddf9f8a0
+
+Acknowledgment
+I would like to express my deepest gratitude to all the individuals and organizations that have contributed to the completion of this project. A special thanks to the authors of the papers “Deep Learning for Volatility Forecasting: A Comparison of Deep Neural Networks and Statistical Models” and “Generalized Autoregressive Conditional Heteroskedasticity (GARCH) Models for Financial Volatility Forecasting”, whose work provided invaluable insights and inspiration for this study. Their contributions have been instrumental in shaping the methodology and framework used in this project.
+
+I also wish to acknowledge the continued support of Udacity, whose courses and resources have greatly enhanced my skills in data science and machine learning, enabling me to apply these techniques to financial data analysis effectively.
