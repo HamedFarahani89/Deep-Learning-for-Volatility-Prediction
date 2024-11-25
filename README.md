@@ -38,5 +38,5 @@ Accurate forecasting of volatility is essential for risk management and trading 
 
 ## Results
 The model was evaluated using multiple performance metrics, including MAE, RMSE, MAPE, and R². The results show a significant improvement over baseline models, demonstrating the effectiveness of deep learning in forecasting volatility.
-
-
+## Published 
+https://medium.com/@hameddfarahanii/predicting-financial-volatility-with-deep-learning-a-dnn-approach-ba7bddf9f8a0
